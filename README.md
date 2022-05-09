@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**rohaantelangur/rohaantelangur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi  I'm Rohaan Telangur 
+- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
+- Currently working at Masai School as an Instructional Associate
 
-Here are some ideas to get you started:
+vishal062 GitHub Badge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack 
+html5 css3 bootstrap tailwind javascript nodejs expressjs mongodb npm postman git github reactjs redux material-ui chakra-ui styled-components
+
+Interested on my top projects? 
+Lybrate Lybrate adidas
+
+Let's Connect !!
+rohaantelangur rohaantelangur rohaantelangur
