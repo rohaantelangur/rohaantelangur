@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohaan Telangur</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
 <h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohaantelangur&label=Profile%20views&color=0e75b6&style=flat" alt="rohaantelangur" /> </p>
@@ -44,5 +49,5 @@
 
 <h3><b> Recent GitHub Activity ⚡</b></h3>
   <p>
-   <a href="https://github.com/rohaantelangur"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishalbhuse&custom_title=vishalbhuse's%20Contribution%20Graph&theme=react-dark" /></a></p>
+   <a href="https://github.com/rohaantelangur"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rohaantelangur&custom_title=Rohaan Telangur's%20Contribution%20Graph&theme=react-dark" /></a></p>
   <br/>
