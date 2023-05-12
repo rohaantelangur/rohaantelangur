@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohaan Telangur</h1>
 
 ##  🙋‍♂️ Who Am I?
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rohaantelangur&label=Profile%20views&color=0e75b6&style=flat" alt="rohaantelangur" /> </p>
+<p align="right"> < img src="https://komarev.com/ghpvc/?username=rohaantelangur&label=Profile%20views&color=0e75b6&style=flat" alt="rohaantelangur" /> </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
